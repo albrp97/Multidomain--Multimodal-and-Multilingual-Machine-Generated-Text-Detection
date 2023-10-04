@@ -1,0 +1,45 @@
+
+0 playground and indoor/OtherData/glove.6B.200d.txt
+0 playground and indoor/results/checkpoint-10000/optimizer.pt
+0 playground and indoor/results/checkpoint-10000/pytorch_model.bin
+0 playground and indoor/results/checkpoint-10000/rng_state.pth
+0 playground and indoor/results/checkpoint-10000/scheduler.pt
+0 playground and indoor/results/checkpoint-10000/trainer_state.json
+0 playground and indoor/results/checkpoint-10000/training_args.bin
+0 playground and indoor/results/checkpoint-300/config.json
+0 playground and indoor/results/checkpoint-300/optimizer.pt
+0 playground and indoor/results/checkpoint-300/pytorch_model.bin
+0 playground and indoor/results/checkpoint-300/rng_state.pth
+0 playground and indoor/results/checkpoint-300/scheduler.pt
+0 playground and indoor/results/checkpoint-300/trainer_state.json
+0 playground and indoor/results/checkpoint-300/training_args.bin
+SubtaskA/results/checkpoint-1776/config.json
+SubtaskA/results/checkpoint-1776/optimizer.pt
+SubtaskA/results/checkpoint-1776/pytorch_model.bin
+SubtaskA/results/checkpoint-1776/rng_state.pth
+SubtaskA/results/checkpoint-1776/scheduler.pt
+SubtaskA/results/checkpoint-1776/trainer_state.json
+SubtaskA/results/checkpoint-1776/training_args.bin
+SubtaskA/results/checkpoint-3552/config.json
+SubtaskA/results/checkpoint-3552/optimizer.pt
+SubtaskA/results/checkpoint-3552/pytorch_model.bin
+SubtaskA/results/checkpoint-3552/rng_state.pth
+SubtaskA/results/checkpoint-3552/scheduler.pt
+SubtaskA/results/checkpoint-3552/trainer_state.json
+SubtaskA/results/checkpoint-3552/training_args.bin
+SubtaskA/SavedModels/bert-base-uncased5k/config.json
+SubtaskA/SavedModels/bert-base-uncased5k/pytorch_model.bin
+SubtaskA/SavedModels/bert-base-uncased5k/training_args.bin
+SubtaskA/SavedModels/deberta-large5k/config.json
+SubtaskA/SavedModels/deberta-large5k/pytorch_model.bin
+SubtaskA/SavedModels/deberta-large5k/training_args.bin
+SubtaskA/SavedModels/roberta-base5k/config.json
+SubtaskA/SavedModels/roberta-base5k/pytorch_model.bin
+SubtaskA/SavedModels/roberta-base5k/training_args.bin
+SubtaskA/SavedModels/roberta-large5k/config.json
+SubtaskA/SavedModels/roberta-large5k/pytorch_model.bin
+SubtaskA/SavedModels/roberta-large5k/training_args.bin
+SubtaskA/datasets/subtaskA_dev_monolingual.jsonl
+SubtaskA/datasets/subtaskA_dev_multilingual.jsonl
+SubtaskA/datasets/subtaskA_train_monolingual.jsonl
+SubtaskA/datasets/subtaskA_train_multilingual.jsonl
