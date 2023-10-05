@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-10-04T18:37:51.175395",
+    "startedAt": "2023-10-04T18:37:50.631344",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/albrp97/Multidomain--Multimodal-and-Multilingual-Machine-Generated-Text-Detection.git",
+        "commit": "73be2c5a0290cfe04a1d57addb46dec6ee1dfd3a"
+    },
+    "email": "107321140+albrp97@users.noreply.github.com",
+    "root": "C:/Users/Ghiki/Documents/Github/Multidomain--Multimodal-and-Multilingual-Machine-Generated-Text-Detection",
+    "host": "HANKA",
+    "username": "Ghiki",
+    "executable": "c:\\Users\\Ghiki\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 24,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2000.0,
+        "min": 0.0,
+        "max": 2000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000.0,
+            "min": 0.0,
+            "max": 2000.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1862.2910118103027,
+            "used": 889.9428482055664
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 31.847137451171875
+    }
+}
