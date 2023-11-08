@@ -82,3 +82,13 @@ SubtaskA/SavedModels/roberta-base-openai-detector5k/config.json
 SubtaskA/SavedModels/roberta-base-openai-detector5k/pytorch_model.bin
 SubtaskA/SavedModels/roberta-base-openai-detector5k/training_args.bin
 SubtaskA/datasets/subtaskA_glove_train_dev_monolingual.pkl
+SubtaskA 2.0/datasets
+SubtaskA 2.0/SavedModels
+SubtaskA 2.0/results
+SubtaskA 2.0/wandb
+01 semeval github
+SubtaskA/datasets
+SubtaskA/SavedModels
+SubtaskA/results
+SubtaskA/wandb/
+SubtaskA/logs
