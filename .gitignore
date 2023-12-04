@@ -92,3 +92,12 @@ SubtaskA/SavedModels
 SubtaskA/results
 SubtaskA/wandb/
 SubtaskA/logs
+SubtaskB/SavedModels
+SubtaskB/results
+SubtaskB/wandb/
+SubtaskB/logs
+SubtaskB/testingModels
+SubtaskB/datasets/subtaskB_train.jsonl
+SubtaskB/datasets/subtaskB_dev.jsonl
+SubtaskB/reducedTrainDataFrame.jsonl
+SubtaskA 2.0/reducedTrainDataFrame.jsonl
