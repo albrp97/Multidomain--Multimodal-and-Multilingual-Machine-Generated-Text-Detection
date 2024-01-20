@@ -107,3 +107,4 @@ SubtaskB 2.0/testing_models
 SubtaskB 2.0/tmp_trainer
 SubtaskB 2.0/wandb
 SubtaskB 2.0/reducedTrainDataFrame.jsonl
+09 test/SavedModels_A
